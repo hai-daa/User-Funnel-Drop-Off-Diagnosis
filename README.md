@@ -90,22 +90,4 @@ This project replicates how a real startup would analyze funnel leakage and acqu
 
 
 
-## 📁 Repository Structure
-root/
-│
-├── data/
-│ ├── funnel_events_50k.csv
-│ ├── clean_user_funnel.csv
-│
-├── sql/
-│ ├── create_tables.sql
-│ ├── funnel_base.sql
-│ ├── funnel_by_campaign.sql
-│ ├── funnel_by_device.sql
-│ ├── cohort_funnel.sql
-│
-├── python/
-│ ├── funnel_analysis.ipynb
-│ ├── funnel_visualizations.py
-│
-└── README.md
+
